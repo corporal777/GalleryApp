@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\GalleryTestApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rysbek\\.gradle\\caches\\transforms-2\\files-2.1\\8e0a164398b7d6dacc7a2fb7142be0c8\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,39",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,170,254,338,434,536,638,3346",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "165,249,333,429,531,633,727,3430"
+                    }
+                },
+                {
+                    "source": "D:\\Projects\\GalleryTestApp\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "849"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "1479"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rysbek\\.gradle\\caches\\transforms-2\\files-2.1\\dca81d2e59f2ef6e5c4e3386a5e41173\\material-1.3.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,40,41,42,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1484,1572,1696,1798,1900,2016,2118,2232,2360,2476,2598,2734,2854,2988,3108,3220,3435,3573,3697,3827,3949,4087,4203",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "1567,1691,1793,1895,2011,2113,2227,2355,2471,2593,2729,2849,2983,3103,3215,3341,3568,3692,3822,3944,4082,4198,4318"
+                    }
+                }
+            ]
+        }
+    ]
+}

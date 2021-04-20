@@ -1,0 +1,2 @@
+com/galleryapp/gallerytestapp/BuildConfig.java
+ com.galleryapp.gallerytestapp.BuildConfig

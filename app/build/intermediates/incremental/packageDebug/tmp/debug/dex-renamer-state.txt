@@ -1,4 +1,4 @@
-#Tue Apr 20 22:15:50 MSK 2021
+#Tue Apr 20 22:30:52 MSK 2021
 base.0=D\:\\Projects\\GalleryTestApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
